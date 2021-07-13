@@ -4,8 +4,8 @@ body { margin: 0; }
 
 /* GLOBAL COLORS */
 body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(189, 242, 255, 0.8); }
-a:hover { color: rgb(98, 205, 255); }
+a { color: rgba(0, 0, 0, 0.8); }
+a:hover { color: rgb(0, 8, 12); }
 
 /* GLOBAL TYPOGRAPHY */ 
 body {
@@ -25,8 +25,8 @@ img {
     display: inline-block;
     padding: 1em 2em;
     text-decoration: none;
-    background-color: rgba(131, 142, 248, 0.8);;
-    color: rgb(188, 197, 253);
+    background-color: rgba(0, 0, 0, 0.8);;
+    color: rgb(0, 1, 5);
     border-radius: 5px;
 }
 .button:hover {
@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgba(102, 0, 0, 1);
+    background-color: rgb(164, 234, 247);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
