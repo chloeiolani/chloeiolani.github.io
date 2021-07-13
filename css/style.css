@@ -30,7 +30,7 @@ img {
     border-radius: 5px;
 }
 .button:hover {
-    background-color: rgba(102, 0, 0, 1);
+    background-color: rgb(87, 113, 170);
     color: white;
 }
 .button.dark {
